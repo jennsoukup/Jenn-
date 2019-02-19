@@ -1,0 +1,5 @@
+git config --global user.email "jennifer_soukup@uri.edu"
+git config --global user.name "Jenn Soukup"
+mkdir ~/repos
+cd repos
+git clone https://github.com/pradac/BIO594_2019
